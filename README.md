@@ -2,14 +2,16 @@
 ### Undergraduate in Telecommunications and Informatics Engineering.
 
 
-### Skills: Python, C, Java
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,postgres)](https://skillicons.dev)
+<sub>*Python, C, Java, PostgreSQL*</sub>
 
 
-- 🔭 I’m currently working on BogBot 
+- 🔭 I’m currently working on **[BogBot](https://github.com/DiogoCorreia03/BoggusBot)**
 - 🌱 I’m currently learning PostgreSQL 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DiogoCorreia03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/diogocorreia03/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](discordapp.com/users/314458509184073728)  
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/DiogoCorreia03)  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diogocorreia03/)  [![My Skills](https://skillicons.dev/icons?i=discord)](discordapp.com/users/314458509184073728)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCorreia03)](https://github.com/anuraghazra/github-readme-stats)
 
