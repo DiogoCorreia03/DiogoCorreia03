@@ -1,8 +1,9 @@
-### Hi there 👋, Diogo Correia
-#### Undergraduate in Telecommunications and Informatics Engineering.
+## Hi there 👋, Diogo Correia
+### Undergraduate in Telecommunications and Informatics Engineering.
 
 
-Skills: Python / C / Java
+### Skills: Python, C, Java
+
 
 - 🔭 I’m currently working on BogBot 
 - 🌱 I’m currently learning PostgreSQL 
