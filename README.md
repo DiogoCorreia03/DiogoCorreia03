@@ -1,6 +1,6 @@
 ### Hi there 👋, Diogo Correia
 #### Undergraduate in Telecommunications and Informatics Engineering.
-about me here...
+
 
 Skills: Python / C / Java
 
