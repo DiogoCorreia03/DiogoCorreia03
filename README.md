@@ -1,4 +1,5 @@
-## Hi there 👋, Diogo Correia
+## Hi there 👋
+## I'm Diogo Correia.
 ### Undergraduate in Telecommunications and Informatics Engineering.
 
 
