@@ -8,7 +8,7 @@
 <sub>*Python, C, Java, PostgreSQL*</sub>
 
 
-- 🔭 I’m currently working on **BogBot**
+- 🔭 I’m currently working on [**BogBot**](https://github.com/DiogoCorreia03/BogBot)
 - 🌱 I’m currently learning PostgreSQL 
 
 
