@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Diogo Correia.
+**I'm Diogo Correia.**
 **Undergraduate in [Telecommunications and Informatics Engineering](https://tecnico.ulisboa.pt/en/education/courses/masters-programmes/telecommunications-and-informatics-engineering/) at Instituto Superior Técnico.**
 
 
